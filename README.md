@@ -1,8 +1,6 @@
 <a href="#" taget="_blank">
   <img src="svg/vuhoang.svg" width="1200">
 </a>
-
-<div>
  ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vu.inh.hoang.443763/?locale=vi_VN) 
 
@@ -19,4 +17,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dinhhoang0712&icon=1&color=0)](https://visitcount.itsvg.in)
  
-</div>
