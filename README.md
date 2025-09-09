@@ -1,5 +1,7 @@
 
 ## 🌐Socials
+
+<img src="svg/vuhoang.svg" width="1200">
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vu.inh.hoang.443763/?locale=vi_VN) 
 
 # 💻Tech Stack
