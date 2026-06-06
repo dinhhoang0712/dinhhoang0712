@@ -2,7 +2,7 @@
 
 ## 🌐Socials
 
-[![CV](https://img.shields.io/badge/CV-Online-green?style=flat)](https://drive.google.com/file/d/1WhMoPvGf_E3CIdSLTBewj-upTdB3Xp03/view)
+[![CV](https://img.shields.io/badge/CV-Online-green?style=flat)](https://drive.google.com/file/d/1fTtumR3dd2blp7qoeuVbWN0EOu6dOJWh/view?usp=sharing)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vu.inh.hoang.443763)
 
 📧 Email: [vuhoang5053@gmail.com](mailto:vuhoang5053@gmail.com)
